@@ -1,0 +1,26 @@
+{
+  "name": "eventdebugger",
+  "version": "0.1.0",
+  "description": "Allows debugging events in node.js applicaiton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sielay/EventDebugger.git"
+  },
+  "keywords": [
+    "event",
+    "node"
+  ],
+  "author": "Lukasz M Sielski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sielay/EventDebugger/issues"
+  },
+  "homepage": "https://github.com/sielay/EventDebugger",
+  "dependencies": {
+    "debug": "^1.0.4"
+  }
+}
